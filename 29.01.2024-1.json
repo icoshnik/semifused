@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Miller",
+    "age": 45,
+    "address": {
+        "street": "Lori Garden",
+        "city": "Johnsonville",
+        "state": "Illinois",
+        "zip": "87842"
+    },
+    "contact": {
+        "phone": "6658703205",
+        "servicePhone": "800874651"
+    },
+    "birthday": "1980-22-08",
+    "ip": "51.14.246.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion pretty baby president develop possible our how. Admit high wall bad material speech. Somebody along themselves picture decide thus the.",
+        "bio": "Which drop arrive guy. Black pay process person star. His shake win determine affect."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
