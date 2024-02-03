@@ -1,0 +1,25 @@
+{
+    "name": "Dominique Dean",
+    "age": 114,
+    "address": {
+        "street": "Hill Hills",
+        "city": "East Johnhaven",
+        "state": "Kentucky",
+        "zip": "91154"
+    },
+    "contact": {
+        "phone": "+1-669-386-1050",
+        "servicePhone": "800696824"
+    },
+    "birthday": "1911-02-06",
+    "ip": "177.56.94.183",
+    "foo": "bar",
+    "profile": {
+        "about": "War my north four think huge risk. Assume father organization reach worry entire thank. Into tough write tax down. Adult detail green trip truth alone few million.",
+        "bio": "Stock pressure give her. Ahead court practice she.\nMoment country set property election about view series. Scientist woman fire government."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
