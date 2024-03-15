@@ -1,0 +1,25 @@
+{
+    "name": "Jason Butler",
+    "age": 99,
+    "address": {
+        "street": "Stevens Mill",
+        "city": "Rebekahville",
+        "state": "Ohio",
+        "zip": "21936"
+    },
+    "contact": {
+        "phone": "(233)495-0443",
+        "servicePhone": "800899994"
+    },
+    "birthday": "1926-12-11",
+    "ip": "131.194.227.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe political talk member also. Amount break others out.\nRich accept sure deal war. Successful suddenly store him.\nAfter news east degree push last character. Tv process model land.",
+        "bio": "Ever race response son store focus everyone. Image hotel last president the popular.\nWithout itself result base. Science remain young. Article himself seven face save decide."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
