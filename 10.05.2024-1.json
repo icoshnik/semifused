@@ -1,0 +1,25 @@
+{
+    "name": "Dana Wong",
+    "age": 43,
+    "address": {
+        "street": "Brooke Greens",
+        "city": "West Holly",
+        "state": "Alabama",
+        "zip": "74002"
+    },
+    "contact": {
+        "phone": "505.287.6119x2461",
+        "servicePhone": "800017613"
+    },
+    "birthday": "1982-05-05",
+    "ip": "3.56.162.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate movie accept bed bad. Field today federal vote. Camera dream group hit.\nThink question station throw blue Mrs. Child at event.",
+        "bio": "What seven board get positive themselves indeed. Home region reach strong.\nForeign bill stop image through those. Record bag thank company. City seat end admit challenge how summer."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
