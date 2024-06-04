@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Sparks",
+    "age": 66,
+    "address": {
+        "street": "Pearson Valley",
+        "city": "West Jameshaven",
+        "state": "North Carolina",
+        "zip": "62144"
+    },
+    "contact": {
+        "phone": "(261)994-8790x29966",
+        "servicePhone": "800105938"
+    },
+    "birthday": "1959-07-03",
+    "ip": "154.46.1.8",
+    "foo": "bar",
+    "profile": {
+        "about": "To they back. Present step different capital save strong. Into operation see source.\nPolitical agree generation employee sister total family green.",
+        "bio": "Project past police describe good. Situation people pretty speak hair though strategy represent. Degree early couple listen hand scientist fast. Above live have increase view."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
