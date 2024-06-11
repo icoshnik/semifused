@@ -1,0 +1,25 @@
+{
+    "name": "Heather Dunn",
+    "age": 109,
+    "address": {
+        "street": "Martin Mills",
+        "city": "West Mario",
+        "state": "Louisiana",
+        "zip": "45151"
+    },
+    "contact": {
+        "phone": "001-349-727-5140x3605",
+        "servicePhone": "800625749"
+    },
+    "birthday": "1916-20-11",
+    "ip": "121.221.149.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Travel and option consider create according.\nOk reason figure serious design language most. Room open your safe.",
+        "bio": "Science foreign establish power school. Well old per campaign as.\nParent space grow instead drug new. Office without kitchen them policy."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
