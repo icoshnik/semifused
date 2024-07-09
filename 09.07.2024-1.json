@@ -1,0 +1,25 @@
+{
+    "name": "Dustin Larsen",
+    "age": 40,
+    "address": {
+        "street": "Thomas Tunnel",
+        "city": "Stephenmouth",
+        "state": "Hawaii",
+        "zip": "24560"
+    },
+    "contact": {
+        "phone": "+1-460-615-3284x131",
+        "servicePhone": "800743265"
+    },
+    "birthday": "1985-27-09",
+    "ip": "25.253.254.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Page artist authority thousand participant. High face list usually five. Six decide four after win.\nBest article type black religious join. Full big part bag large. The way cell manage.",
+        "bio": "Congress newspaper doctor respond. Black view almost condition behind report they common. Argue bag news hundred under current ten."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
