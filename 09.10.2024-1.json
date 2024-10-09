@@ -1,0 +1,25 @@
+{
+    "name": "Drew Phillips",
+    "age": 62,
+    "address": {
+        "street": "Geoffrey Trace",
+        "city": "Heatherbury",
+        "state": "Oregon",
+        "zip": "37210"
+    },
+    "contact": {
+        "phone": "+1-795-244-0225x8777",
+        "servicePhone": "800741288"
+    },
+    "birthday": "1963-20-07",
+    "ip": "91.2.124.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical stage successful opportunity recently state fill break. Third enough near report offer next debate. President story senior page information.",
+        "bio": "Something may level fact become accept outside management. Firm treat whatever national some.\nNext pattern box happy. No side subject politics. Four response look first."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
