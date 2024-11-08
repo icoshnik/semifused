@@ -1,0 +1,25 @@
+{
+    "name": "Misty Green",
+    "age": 62,
+    "address": {
+        "street": "Webster Fords",
+        "city": "South Davidburgh",
+        "state": "Vermont",
+        "zip": "24338"
+    },
+    "contact": {
+        "phone": "+1-640-815-2054",
+        "servicePhone": "800443312"
+    },
+    "birthday": "1963-05-10",
+    "ip": "120.245.204.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Let fine mention appear law. Pattern wrong reach coach second never pass. Attack probably crime.\nWorld sell condition trade may age.\nArrive defense find left. Tend body fine.",
+        "bio": "Head early turn among full resource. Make detail whom any.\nThing young goal few government leader. Quality ever upon interest issue think approach.\nAlone form work discover carry affect future range."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
