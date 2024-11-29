@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Moore",
+    "age": 66,
+    "address": {
+        "street": "Mary Spur",
+        "city": "Port Matthew",
+        "state": "Delaware",
+        "zip": "28381"
+    },
+    "contact": {
+        "phone": "+1-505-776-0523x9025",
+        "servicePhone": "800372425"
+    },
+    "birthday": "1959-02-05",
+    "ip": "57.137.163.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Too during character look image need under enough. Forget any remain modern field foot. Create common our.\nPrepare police commercial now. Difference thousand put enter pressure forget toward.",
+        "bio": "Role where human body employee owner. Response its citizen large. Report begin off participant full everyone."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
