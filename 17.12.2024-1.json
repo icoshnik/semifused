@@ -1,0 +1,25 @@
+{
+    "name": "Robert Adkins",
+    "age": 111,
+    "address": {
+        "street": "Craig Mews",
+        "city": "West Andrewshire",
+        "state": "Wisconsin",
+        "zip": "22974"
+    },
+    "contact": {
+        "phone": "344-253-0395x080",
+        "servicePhone": "800954346"
+    },
+    "birthday": "1914-12-11",
+    "ip": "188.242.213.158",
+    "foo": "bar",
+    "profile": {
+        "about": "General north about agency position. Hot moment would current. Situation piece these Mrs oil better rate world.\nNature single prove indeed record.",
+        "bio": "Page remain total event single word consumer. Class that Democrat life foot generation every. Site market water. Push threat letter throw strategy technology trip."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
