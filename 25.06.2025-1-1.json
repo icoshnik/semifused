@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mcdonald",
+    "age": 78,
+    "address": {
+        "street": "Karen Bridge",
+        "city": "New Williammouth",
+        "state": "Wisconsin",
+        "zip": "20980"
+    },
+    "contact": {
+        "phone": "763.646.3659",
+        "servicePhone": "800548157"
+    },
+    "birthday": "1947-02-04",
+    "ip": "54.12.92.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Report very happen speech surface top fight. Move building treat teacher compare today.",
+        "bio": "Environmental present under cell low. Collection collection discover in yard. Piece seem hair nearly film."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
