@@ -1,0 +1,25 @@
+{
+    "name": "Julie Cooley",
+    "age": 9,
+    "address": {
+        "street": "Johnson Mountains",
+        "city": "Danielport",
+        "state": "New Mexico",
+        "zip": "96267"
+    },
+    "contact": {
+        "phone": "+1-349-243-1498",
+        "servicePhone": "800561477"
+    },
+    "birthday": "2016-02-11",
+    "ip": "57.213.218.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Church yeah quite the last big. Cut create treat figure service first myself. For nor environment child find school.",
+        "bio": "Than individual near.\nEnjoy form total book character under finish. Provide first help. Later claim perhaps up bag technology southern."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
