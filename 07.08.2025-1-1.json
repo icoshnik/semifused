@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Garcia",
+    "age": 104,
+    "address": {
+        "street": "Gibson Shores",
+        "city": "Johnstonton",
+        "state": "North Carolina",
+        "zip": "85888"
+    },
+    "contact": {
+        "phone": "001-292-550-1718x36883",
+        "servicePhone": "800616367"
+    },
+    "birthday": "1921-15-11",
+    "ip": "170.202.180.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose work star. Economy character back keep. Attorney party glass friend blood fill.\nCut meet should happen by how. Decide person hotel street part. Especially store responsibility adult pass time.",
+        "bio": "Road institution similar its thought main company institution.\nMake radio building truth at view security let.\nMan which different air machine her. Represent born black third where onto."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
