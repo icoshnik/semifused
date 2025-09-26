@@ -1,0 +1,25 @@
+{
+    "name": "Eduardo Martinez",
+    "age": 104,
+    "address": {
+        "street": "Jessica Meadows",
+        "city": "Leeport",
+        "state": "Colorado",
+        "zip": "59321"
+    },
+    "contact": {
+        "phone": "(536)498-4131x4233",
+        "servicePhone": "800210043"
+    },
+    "birthday": "1921-01-03",
+    "ip": "84.101.228.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence according quality forget evidence employee. Six as agent thousand find involve man.\nDecision ability kitchen save past energy. Military bank land oil feel. Leg paper sort prevent.",
+        "bio": "Arrive born simple just house. Read share billion determine. Land our water suddenly very writer if.\nMean marriage check understand. Case firm road reach civil."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
