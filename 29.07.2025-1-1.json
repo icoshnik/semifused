@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Williams",
+    "age": 51,
+    "address": {
+        "street": "Jesse Motorway",
+        "city": "Emilyfurt",
+        "state": "Maine",
+        "zip": "95214"
+    },
+    "contact": {
+        "phone": "+1-223-796-3070x568",
+        "servicePhone": "800721761"
+    },
+    "birthday": "1974-26-11",
+    "ip": "22.164.74.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer until specific time current thousand avoid. Involve throw wish or shake. Beyond affect school finally quite produce control.",
+        "bio": "Surface carry report fly surface. Management never see these.\nWould total research unit professor. Anyone nor he and. Religious down let catch story medical."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
