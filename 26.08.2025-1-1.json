@@ -1,0 +1,25 @@
+{
+    "name": "Linda Stewart",
+    "age": 27,
+    "address": {
+        "street": "Williams Loaf",
+        "city": "Sandraview",
+        "state": "Iowa",
+        "zip": "75892"
+    },
+    "contact": {
+        "phone": "+1-601-531-8855x899",
+        "servicePhone": "800197175"
+    },
+    "birthday": "1998-29-11",
+    "ip": "57.211.176.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Board goal current total someone someone. Manager degree not land we. Year owner today up author tend toward. Around order doctor model fear.",
+        "bio": "Science we television alone pay the. Citizen before sea fill international. Home recognize edge physical message sense live."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
