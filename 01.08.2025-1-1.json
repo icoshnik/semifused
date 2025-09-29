@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Grant",
+    "age": 96,
+    "address": {
+        "street": "Angela Corners",
+        "city": "North Danaside",
+        "state": "Florida",
+        "zip": "21287"
+    },
+    "contact": {
+        "phone": "569.504.5088",
+        "servicePhone": "800317062"
+    },
+    "birthday": "1929-08-11",
+    "ip": "188.62.137.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Be trial audience something study choice thousand deal. Hotel picture loss drug far expect. Ability kind imagine recent feel court language.",
+        "bio": "Structure surface trial contain say base never. Modern little enough others increase. Against news base new need data join dinner. Admit mouth network play."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}

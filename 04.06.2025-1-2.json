@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Johnson",
+    "age": 1,
+    "address": {
+        "street": "Mcgee Forge",
+        "city": "New Harryberg",
+        "state": "Florida",
+        "zip": "95511"
+    },
+    "contact": {
+        "phone": "+1-608-807-4877",
+        "servicePhone": "800092597"
+    },
+    "birthday": "2024-11-02",
+    "ip": "113.0.176.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Past clearly school baby. Dinner cell service wife.\nHuge movie large simple mind field season. Late tonight that brother politics space. Board power Republican right.",
+        "bio": "Expect inside admit wonder game his save. South heavy financial present trial. Operation gas capital she common class issue."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
