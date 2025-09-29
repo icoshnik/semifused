@@ -1,0 +1,25 @@
+{
+    "name": "Miguel Anderson",
+    "age": 69,
+    "address": {
+        "street": "Compton Landing",
+        "city": "Heatherville",
+        "state": "Maine",
+        "zip": "52820"
+    },
+    "contact": {
+        "phone": "4863503823",
+        "servicePhone": "800625461"
+    },
+    "birthday": "1956-11-10",
+    "ip": "123.12.223.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Half visit city talk six range first must. Money sell believe statement smile close.\nKid inside eight style bring care someone. Factor begin person none table choice figure. Light with game.",
+        "bio": "Already bill particular area. Piece price not down election work remain. Use for tell answer if week personal.\nPoint help gas. Drug travel past PM look of what animal. Common pay process move light."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Lin",
+    "age": 34,
+    "address": {
+        "street": "Carla Lights",
+        "city": "South Tonyafurt",
+        "state": "Wisconsin",
+        "zip": "34926"
+    },
+    "contact": {
+        "phone": "342.533.7060",
+        "servicePhone": "800245296"
+    },
+    "birthday": "1991-16-04",
+    "ip": "122.143.171.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Moment realize one what beyond. Company although accept amount already energy audience. Pay base level case cold alone. Play alone lay southern consider.",
+        "bio": "Effect so detail leg reason. Day him deep message. Least away near stage owner usually.\nEvidence much learn wall understand pass business. So moment set bad boy benefit game girl."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
