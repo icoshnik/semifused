@@ -1,0 +1,25 @@
+{
+    "name": "Patrick White",
+    "age": 32,
+    "address": {
+        "street": "Raven Highway",
+        "city": "Dawsonport",
+        "state": "Iowa",
+        "zip": "22310"
+    },
+    "contact": {
+        "phone": "975.698.9601",
+        "servicePhone": "800844181"
+    },
+    "birthday": "1993-12-04",
+    "ip": "3.91.24.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Agree across she program. Black clear skill rate. Physical sport operation really.",
+        "bio": "Film big read everybody occur shake. Happy fill adult opportunity his significant pretty. A term out certain.\nAgo long should. Generation at boy improve box would born. Economy up camera language."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
