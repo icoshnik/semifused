@@ -1,0 +1,25 @@
+{
+    "name": "John Shah",
+    "age": 65,
+    "address": {
+        "street": "Tara Orchard",
+        "city": "Lake Keithbury",
+        "state": "Idaho",
+        "zip": "47589"
+    },
+    "contact": {
+        "phone": "2302014420",
+        "servicePhone": "800332991"
+    },
+    "birthday": "1960-01-12",
+    "ip": "217.10.130.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Force star music heavy around. Defense field white before mind fill drive.\nMoney half hair onto. Read nice foot country century. Congress group full source open. Impact more interesting huge.",
+        "bio": "Realize maybe perhaps life southern. Require day artist painting start next. More foreign throughout late book add.\nGrow item reach coach personal instead. Participant or party pull compare cultural."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
