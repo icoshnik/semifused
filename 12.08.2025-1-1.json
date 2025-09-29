@@ -1,0 +1,25 @@
+{
+    "name": "Eric Howard",
+    "age": 1,
+    "address": {
+        "street": "Hayes Common",
+        "city": "Alexanderland",
+        "state": "New York",
+        "zip": "18106"
+    },
+    "contact": {
+        "phone": "257-293-1244x869",
+        "servicePhone": "800951684"
+    },
+    "birthday": "2024-25-07",
+    "ip": "28.82.150.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Four role wind. South open her watch police. In worker page each seek teach.\nSense figure billion before street maintain. Six employee senior page.",
+        "bio": "Ask reach travel yeah arrive back into. Experience site air anything.\nDeal purpose never exist kid. Edge test itself three can so ask. Purpose program into table cost base interest."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
