@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Good",
+    "age": 22,
+    "address": {
+        "street": "Nicole Manor",
+        "city": "New Caleb",
+        "state": "Louisiana",
+        "zip": "65935"
+    },
+    "contact": {
+        "phone": "454-950-3215x810",
+        "servicePhone": "800269980"
+    },
+    "birthday": "2003-25-06",
+    "ip": "113.68.164.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand audience blood conference. Detail discussion available ability tough if might.\nOk wish hear least enough government attention. Hot today sister stay while.",
+        "bio": "Box oil clearly recently television response. Edge all conference. That hundred magazine happen than. Break require total certainly movement main."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
