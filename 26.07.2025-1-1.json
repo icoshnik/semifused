@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Chang",
+    "age": 31,
+    "address": {
+        "street": "Ashley Flats",
+        "city": "Benjaminchester",
+        "state": "Alabama",
+        "zip": "60422"
+    },
+    "contact": {
+        "phone": "001-387-793-2428",
+        "servicePhone": "800054579"
+    },
+    "birthday": "1994-28-07",
+    "ip": "145.155.86.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical site stop mind. Different book yes price reflect ten even.\nBy Democrat lawyer. Hotel style south keep door mind. Deep into so without instead reach really.",
+        "bio": "Finally do either everyone. Free we first serve knowledge.\nFact never green environment. Number this thus political."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christina Hernandez",
+    "age": 73,
+    "address": {
+        "street": "Jose Greens",
+        "city": "East Christophershire",
+        "state": "Georgia",
+        "zip": "33261"
+    },
+    "contact": {
+        "phone": "3463499379",
+        "servicePhone": "800193765"
+    },
+    "birthday": "1952-25-07",
+    "ip": "162.6.242.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Many behind process account source. Under child try such bank hold care hit. Lot tend agent forget.",
+        "bio": "On her fire rock factor movie. Ability according exist then very. Practice better call war tonight reduce mission quite."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
